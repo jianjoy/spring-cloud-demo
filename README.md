@@ -1,5 +1,5 @@
 # spring-cloud-demo
-spring cloud
+spring cloud<br/>
 Eureka 服务治理 (注册服务，服务发现与消费）
 Ribbon 客户端负载均衡（负载均衡器、负载均衡策略）
 Hystrix  服务容错保护(断路器、依赖隔离、服务降级、仪表盘、Turbine集群监控)
